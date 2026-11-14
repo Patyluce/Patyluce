@@ -6,18 +6,7 @@
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: gosto de investigação 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Patyadl&show_icons=true&theme=blueberry"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Patyadl&show_icons=true&theme=blueberry"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Patyadl&show_icons=true&theme=blueberry" />
-</picture>
-<picture>
+
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Patyadl&layout=compact&theme=blueberry"
     media="(prefers-color-scheme: dark)"
